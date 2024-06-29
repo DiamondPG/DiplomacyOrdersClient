@@ -1,0 +1,102 @@
+﻿<Window x:Class="DiplomacyOrders.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DiplomacyOrders"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Background="Transparent"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Icon="/assets/images/icon.png"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="TabBTN" TargetType="Button">
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#266CA8"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Border Background="#547aa5" CornerRadius="10">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Border Background="#4f5165" CornerRadius="10,10,0,0" MouseDown="Border_PreviewMouseDown">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="CloseBTN" Grid.Column="2" Click="CloseBTN_Click">
+                            <Image Source="/assets/images/close_btn.png"/>
+                        </Button>
+                        <Button x:Name="MinimizeBTN" Grid.Column="1" Click="MinimizeBTN_Click">
+                            <Image Source="/assets/images/minimize_btn.png"/>
+                        </Button>
+                    </Grid>
+                    <Image Source="/assets/images/icon.png" Margin="5"/>
+                </Grid>
+            </Border>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Border CornerRadius="0,0,0,10" Background="#5587ac">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Button Style="{StaticResource TabBTN}" Click="HomeBTN_Click">
+                            <Grid Width="196">
+                                <Image Source="/assets/images/home_icon.png" HorizontalAlignment="Left"/>
+                                <TextBlock Text="Home" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5"/>
+                            </Grid>
+                        </Button>
+                        <Button Style="{StaticResource TabBTN}" Click="ViewMapBTN_Click" Grid.Row="1">
+                            <Grid Width="196">
+                                <Image Source="/assets/images/map_icon.png" HorizontalAlignment="Left"/>
+                                <TextBlock Text="View Map" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5"/>
+                            </Grid>
+                        </Button>
+                        <Button Style="{StaticResource TabBTN}" Click="OrdersBTN_Click" Grid.Row="2">
+                            <Grid Width="196">
+                                <Image Source="/assets/images/submit_orders_icon.png" HorizontalAlignment="Left"/>
+                                <TextBlock Text="Orders" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5"/>
+                            </Grid>
+                        </Button>
+                    </Grid>
+                </Border>
+                <ContentControl x:Name="Content" Grid.Column="1"/>
+            </Grid>
+            
+        </Grid>
+    </Border>
+
+</Window>

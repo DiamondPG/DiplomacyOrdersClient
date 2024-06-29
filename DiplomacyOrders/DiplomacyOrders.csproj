@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\images\close_btn.png" />
+    <None Remove="assets\images\home_icon.png" />
+    <None Remove="assets\images\icon.png" />
+    <None Remove="assets\images\map_icon.png" />
+    <None Remove="assets\images\minimize_btn.png" />
+    <None Remove="assets\images\submit_orders_icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\images\close_btn.png" />
+    <Resource Include="assets\images\home_icon.png" />
+    <Resource Include="assets\images\icon.png" />
+    <Resource Include="assets\images\map_icon.png" />
+    <Resource Include="assets\images\minimize_btn.png" />
+    <Resource Include="assets\images\submit_orders_icon.png" />
+  </ItemGroup>
+
+</Project>
