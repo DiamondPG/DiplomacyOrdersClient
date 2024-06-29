@@ -1,0 +1,2 @@
+# DiplomacyOrdersClient
+Submit Diplomacy Orders.
