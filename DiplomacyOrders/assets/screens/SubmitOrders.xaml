@@ -8,7 +8,7 @@
              d:DesignHeight="410" d:DesignWidth="600">
     <Grid> 
         <TextBlock Text="Submit Orders" HorizontalAlignment="Center" FontSize="24" Foreground="White"/>
-        <TextBox x:Name="OrdersTXT" Background="#363636" Margin="15,50,15,15" PreviewKeyDown="OrdersTXT_PreviewKeyDown"/>
+        <TextBox x:Name="OrdersTXT" Background="#363636" Foreground="White" Margin="15,50,15,15" PreviewKeyDown="OrdersTXT_PreviewKeyDown"/>
         
     </Grid>
 </UserControl>

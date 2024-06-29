@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XED31/hDfp8=",
+  "dgSpecHash": "woao2+fbeBc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\DiplomacyOrders.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Harma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

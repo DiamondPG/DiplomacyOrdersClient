@@ -3,6 +3,8 @@ C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-win
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\DiplomacyOrders.runtimeconfig.json
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\DiplomacyOrders.dll
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\DiplomacyOrders.pdb
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.csproj.AssemblyReference.cache
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\assets\screens\Home.g.cs
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\assets\screens\Map.g.cs
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\assets\screens\SubmitOrders.g.cs
@@ -20,6 +22,8 @@ C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-win
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.AssemblyInfoInputs.cache
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.AssemblyInfo.cs
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.csproj.CoreCompileInputs.cache
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.sourcelink.json
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\Diplomac.3D7D3860.Up2Date
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.dll
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\refint\DiplomacyOrders.dll
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.pdb
