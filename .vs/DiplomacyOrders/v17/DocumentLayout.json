@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\map.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\screens\\map.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\data\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\data\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "countries.json",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\data\\countries.json",
               "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\data\\countries.json",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SubmitOrders.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml.cs",
               "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SubmitOrders.xaml",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml",
               "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Map.xaml",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\Map.xaml",
               "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\Map.xaml",
@@ -107,14 +107,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DiplomacyOrders\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\MainWindow.xaml",
               "RelativeToolTip": "DiplomacyOrders\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-28T23:06:04.21Z"
+              "WhenOpened": "2024-06-28T23:06:04.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
