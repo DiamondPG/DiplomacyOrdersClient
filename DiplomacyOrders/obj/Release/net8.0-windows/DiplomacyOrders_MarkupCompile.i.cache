@@ -1,5 +1,5 @@
 ﻿DiplomacyOrders
-1.0.0.0
+0.1.0
 
 winexe
 C#
@@ -16,5 +16,5 @@ C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\App.xaml
 209-1239137537
 assets\screens\Home.xaml;assets\screens\Map.xaml;assets\screens\Status.xaml;assets\screens\SubmitOrders.xaml;MainWindow.xaml;
 
-True
+False
 

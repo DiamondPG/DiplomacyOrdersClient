@@ -34,7 +34,7 @@ namespace DiplomacyOrders
             Content.Content = home;
         }
 
-        private void SendRequest()
+        private string GetStatus()
         {
             try
             {
@@ -49,13 +49,14 @@ namespace DiplomacyOrders
                     var response = await client.SendAsync(request);
                     var body = await response.Content.ReadAsStringAsync();
                     Trace.WriteLine(body);
+                    return body;
                 });
             }
             catch
             {
                 throw new NotImplementedException("Error not documented");
             }
-            
+            return null;
         }
 
         private void CloseBTN_Click(object sender, RoutedEventArgs e)
@@ -91,6 +92,7 @@ namespace DiplomacyOrders
 
         private void Status_Click(object sender, RoutedEventArgs e)
         {
+            string json = GetStatus();
             
         }
 

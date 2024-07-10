@@ -53,7 +53,7 @@ namespace DiplomacyOrders.assets.screens {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/DiplomacyOrders;V1.0.0.0;component/assets/screens/status.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/DiplomacyOrders;V0.1.0;component/assets/screens/status.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\assets\screens\Status.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
