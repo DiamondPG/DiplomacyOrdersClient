@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DiplomacyOrders"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800"
+        Title="MainWindow" Height="480" Width="800"
         Background="Transparent"
         WindowStyle="None"
         AllowsTransparency="True"
@@ -39,7 +39,7 @@
                         <ColumnDefinition/>
                         <ColumnDefinition/>
                         <ColumnDefinition/>
-                        <ColumnDefinition/>
+                        <ColumnDefinition Width="150"/>
                     </Grid.ColumnDefinitions>
                     <Grid Grid.Column="5">
                         <Grid.ColumnDefinitions>
@@ -90,6 +90,12 @@
                             <Grid Width="196">
                                 <Image Source="/assets/images/submit_orders_icon.png" HorizontalAlignment="Left"/>
                                 <TextBlock Text="Orders" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5"/>
+                            </Grid>
+                        </Button>
+                        <Button Style="{StaticResource TabBTN}" Click="Status_Click" Grid.Row="3">
+                            <Grid Width="196">
+                                <Image Source="/assets/images/info_btn.png" HorizontalAlignment="Left"/>
+                                <TextBlock Text="Status" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5"/>
                             </Grid>
                         </Button>
                     </Grid>

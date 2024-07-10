@@ -13,6 +13,9 @@
     <Compile Update="assets\screens\Map.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="assets\screens\Status.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="assets\screens\SubmitOrders.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -22,6 +25,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="assets\screens\Map.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="assets\screens\Status.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="assets\screens\SubmitOrders.xaml">

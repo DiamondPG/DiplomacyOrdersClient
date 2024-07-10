@@ -9,6 +9,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Rest;
+using System.Net.Http;
+using System.Diagnostics;
 
 namespace DiplomacyOrders
 {
@@ -29,6 +32,30 @@ namespace DiplomacyOrders
         private void Initialize()
         {
             Content.Content = home;
+        }
+
+        private void SendRequest()
+        {
+            try
+            {
+                var client = new HttpClient();
+                var request = new HttpRequestMessage
+                {
+                    Method = HttpMethod.Get,
+                    RequestUri = new Uri("http://localhost:6727/status")
+                };
+                Task.Run(async () =>
+                {
+                    var response = await client.SendAsync(request);
+                    var body = await response.Content.ReadAsStringAsync();
+                    Trace.WriteLine(body);
+                });
+            }
+            catch
+            {
+                throw new NotImplementedException("Error not documented");
+            }
+            
         }
 
         private void CloseBTN_Click(object sender, RoutedEventArgs e)
@@ -61,5 +88,12 @@ namespace DiplomacyOrders
         {
             Content.Content = orders;
         }
+
+        private void Status_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+
     }
 }

@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\App.xaml
-41785067520
+51627778724
 
-9361832715
-199728895742
-assets\screens\Home.xaml;assets\screens\Map.xaml;assets\screens\SubmitOrders.xaml;MainWindow.xaml;
+10-707396653
+209-1239137537
+assets\screens\Home.xaml;assets\screens\Map.xaml;assets\screens\Status.xaml;assets\screens\SubmitOrders.xaml;MainWindow.xaml;
 
-False
+True
 

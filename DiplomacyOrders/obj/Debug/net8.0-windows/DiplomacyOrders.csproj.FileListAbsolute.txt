@@ -29,3 +29,13 @@ C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-win
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.pdb
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\DiplomacyOrders.genruntimeconfig.cache
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Debug\net8.0-windows\ref\DiplomacyOrders.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Debug\net8.0-windows\RestClient.dll
