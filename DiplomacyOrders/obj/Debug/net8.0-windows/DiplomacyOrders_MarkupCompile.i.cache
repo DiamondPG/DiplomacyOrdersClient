@@ -1,5 +1,5 @@
 ﻿DiplomacyOrders
-1.0.0.0
+0.1.0
 
 winexe
 C#
@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\App.xaml
-41785067520
+51627778724
 
-91254729866
-209781277571
-assets\screens\Home.xaml;assets\screens\Map.xaml;assets\screens\SubmitOrders.xaml;MainWindow.xaml;
+10185500498
+209-1239137537
+assets\screens\Home.xaml;assets\screens\Map.xaml;assets\screens\Status.xaml;assets\screens\SubmitOrders.xaml;MainWindow.xaml;
 
 False
 

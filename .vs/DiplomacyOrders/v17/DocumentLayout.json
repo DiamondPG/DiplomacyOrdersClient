@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\submitorders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\screens\\submitorders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\submitorders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\screens\\submitorders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\data\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\data\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\status.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\screens\\status.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\status.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\screens\\status.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\map.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\screens\\map.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\submitorders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\assets\\screens\\submitorders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|solutionrelative:diplomacyorders\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D08BA2C8-2C88-41C7-9085-9E7BB2CAC142}|DiplomacyOrders\\DiplomacyOrders.csproj|c:\\users\\harma\\source\\repos\\diplomacyorders\\diplomacyorders\\assets\\screens\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,11 +46,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Status.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\Status.xaml.cs",
+              "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\Status.xaml.cs",
+              "ToolTip": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\Status.xaml.cs",
+              "RelativeToolTip": "DiplomacyOrders\\assets\\screens\\Status.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:10:11.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Status.xaml",
+              "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\Status.xaml",
+              "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\Status.xaml",
+              "ToolTip": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\Status.xaml",
+              "RelativeToolTip": "DiplomacyOrders\\assets\\screens\\Status.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T03:09:12.101Z"
             },
             {
               "$type": "Document",
@@ -58,31 +89,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SubmitOrders.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml.cs",
               "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml.cs",
               "ToolTip": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml.cs",
               "RelativeToolTip": "DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAQwB0AAAARAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIEAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T02:21:15.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "SubmitOrders.xaml",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml",
               "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml",
               "ToolTip": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml",
               "RelativeToolTip": "DiplomacyOrders\\assets\\screens\\SubmitOrders.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-29T01:30:50.629Z"
+              "WhenOpened": "2024-06-29T01:30:50.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Map.xaml",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\Map.xaml",
               "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\Map.xaml",
@@ -93,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Home.xaml",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\assets\\screens\\Home.xaml",
               "RelativeDocumentMoniker": "DiplomacyOrders\\assets\\screens\\Home.xaml",
@@ -104,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DiplomacyOrders\\MainWindow.xaml",
@@ -115,16 +147,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DiplomacyOrders\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "DiplomacyOrders\\MainWindow.xaml.cs*",
-              "ViewState": "AQIAABgAAAAAAAAAAADwvzMAAAATAAAA",
+              "ToolTip": "C:\\Users\\Harma\\source\\repos\\DiplomacyOrders\\DiplomacyOrders\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DiplomacyOrders\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA4wFsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T23:06:02.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T23:06:02.67Z"
             }
           ]
         }

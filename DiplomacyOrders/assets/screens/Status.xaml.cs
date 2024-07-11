@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Diagnostics;
 using System.Linq;
 using System.Printing;
 using System.Text;
@@ -23,7 +24,7 @@ namespace DiplomacyOrders.assets.screens
     /// </summary>
     public partial class Status : UserControl
     {
-        public Body body = new Body();
+        public List<Country> body;
 
         /// <summary>
         /// Contains Status Page for Json
@@ -32,21 +33,16 @@ namespace DiplomacyOrders.assets.screens
         public Status(string json)
         {
             InitializeComponent();
-            body = JsonConvert.DeserializeObject<Body>(json);
-            foreach (var item in body.Countries)
-            {
-
-            }
+            body = JsonConvert.DeserializeObject<List<Country>>(json);
+            CountriesPanel.ItemsSource = body;
         }
 
-        public class Body
+        
+
+        public class Country
         {
-            public ObservableCollection<Country> Countries { get; set; }
-            public class Country
-            {
-                public string Name { get; set; }
-                public bool Ready { get; set; }
-            }
+            public string Name { get; set; }
+            public bool Ready { get; set; }
         }
     }
 }

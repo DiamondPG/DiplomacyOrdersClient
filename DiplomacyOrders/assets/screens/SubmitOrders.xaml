@@ -7,8 +7,13 @@
              mc:Ignorable="d" 
              d:DesignHeight="410" d:DesignWidth="600">
     <Grid> 
-        <TextBlock Text="Submit Orders" HorizontalAlignment="Center" FontSize="24" Foreground="White"/>
-        <TextBox x:Name="OrdersTXT" Background="#363636" Foreground="White" Margin="15,50,15,15" PreviewKeyDown="OrdersTXT_PreviewKeyDown"/>
+        <TextBlock Text="Submit Orders" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24" Foreground="White"/>
         
+        <TextBox x:Name="OrdersTXT" Background="#363636" Foreground="White" Margin="15,50,15,55" PreviewKeyDown="OrdersTXT_PreviewKeyDown"/>
+        <Button x:Name="SubmitBTN" Margin="12" Content="Submit Orders" Width="125" Height="30" VerticalAlignment="Bottom" Click="SubmitBTN_Click"/>
+        <TextBlock x:Name="CountryTXT" Text="Select Country to Submit Orders" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5"/>
+        <Border x:Name="EventDisplay" Opacity="0" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="10" CornerRadius="10" Background="#1f1f1f" Width="110" Height="25">
+            <TextBlock Text="Orders Submitted" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="12"/>
+        </Border>
     </Grid>
 </UserControl>

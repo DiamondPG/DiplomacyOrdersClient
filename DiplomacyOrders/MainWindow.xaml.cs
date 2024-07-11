@@ -34,7 +34,7 @@ namespace DiplomacyOrders
             Content.Content = home;
         }
 
-        private string GetStatus()
+        private async Task<string> GetStatus()
         {
             try
             {
@@ -44,19 +44,17 @@ namespace DiplomacyOrders
                     Method = HttpMethod.Get,
                     RequestUri = new Uri("http://localhost:6727/status")
                 };
-                Task.Run(async () =>
-                {
-                    var response = await client.SendAsync(request);
-                    var body = await response.Content.ReadAsStringAsync();
-                    Trace.WriteLine(body);
-                    return body;
-                });
+
+                var response = await client.SendAsync(request);
+                var body = await response.Content.ReadAsStringAsync();
+                Trace.WriteLine(body);
+                return body;
             }
-            catch
+            catch (Exception ex)
             {
-                throw new NotImplementedException("Error not documented");
+                Trace.WriteLine(ex.Message);
+                return null;
             }
-            return null;
         }
 
         private void CloseBTN_Click(object sender, RoutedEventArgs e)
@@ -90,10 +88,21 @@ namespace DiplomacyOrders
             Content.Content = orders;
         }
 
-        private void Status_Click(object sender, RoutedEventArgs e)
+        private async void Status_Click(object sender, RoutedEventArgs e)
         {
-            string json = GetStatus();
+            string json = await GetStatus();
+            if (!string.IsNullOrEmpty(json))
+            {
+                Status status = new Status(json);
+                Content.Content = status;
+            } 
+            else
+            {
+                throw new NotImplementedException("Error Not Documented");
+            }
             
+            
+
         }
 
 

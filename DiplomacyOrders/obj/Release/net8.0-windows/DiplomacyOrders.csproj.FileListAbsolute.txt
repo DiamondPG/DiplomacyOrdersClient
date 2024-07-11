@@ -39,3 +39,5 @@ C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Release\net8.0-w
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
 C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\bin\Release\net8.0-windows\RestClient.dll
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Release\net8.0-windows\assets\screens\Status.g.cs
+C:\Users\Harma\source\repos\DiplomacyOrders\DiplomacyOrders\obj\Release\net8.0-windows\assets\screens\Status.baml
